@@ -1,2 +1,3 @@
-# tools
-git@github.com:fengxingzhu/tools.git
+# tools(php 工具集合)
+说明：<br>
+积累了一些常用的php小功能。方便再次使用。
