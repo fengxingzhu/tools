@@ -1,7 +1,7 @@
-# tools(php ���߼���)
-˵����<br>
-������һЩ���õ�phpС���ܡ������ٴ�ʹ�á�<br>
-���磺<br>
-̽�롢php����������<br>
+# tools(php 工具集合)
+说明：<br>
+积累了一些常用的php小功能。方便再次使用。<br>
+例如：<br>
+探针、php环境常量等<br>
 
-wiki�ĵ���ַ��https://fengxingzhu.gitbooks.io/tools/content/
+wiki文档地址：https://fengxingzhu.gitbooks.io/tools/content/
